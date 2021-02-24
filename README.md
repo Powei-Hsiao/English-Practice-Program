@@ -1,3 +1,4 @@
-# Englith Practice program
+# 英文學習寵物獸
 
-You can practice English words, phrase, gramma or anything you need through Line app by answering the quiz.
+透過Lineapp從歷年學測、指考、GRE的考題中練習英文!
+並支援單字記憶、單字查詢等擴充功能。
