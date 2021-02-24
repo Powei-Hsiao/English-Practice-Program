@@ -1,0 +1,7 @@
+Flask
+gunicorn
+line-bot-sdk
+configparser
+bs4
+requests
+psycopg2
